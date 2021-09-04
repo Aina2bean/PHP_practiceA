@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+}
+.fizzbuzz {
+    margin: 20px;
+}
+h1, h2, h3 {
+    margin: 10px auto;
+}
+ul {
+    margin: 10px;
+}
+.guide ul li {
+    list-style-type: none;
+}
+.execution {
+    margin-left: 20px;
+}
+.execution ul li {
+    list-style-type: circle;
+}
